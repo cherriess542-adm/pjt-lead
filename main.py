@@ -7,3 +7,4 @@ print (main(N))
 
 print("first modification")
 print ("second modification")
+n=5
